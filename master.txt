@@ -5,3 +5,6 @@ this is for accept both option
 this is being added in local master branch
 for both accept option 
 this is being added in master branch
+
+campare master branch
+option campare
