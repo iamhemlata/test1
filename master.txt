@@ -1,2 +1,5 @@
 i am master branch
 this is being added in master branch
+
+for both accept option 
+this is being added in master branch
